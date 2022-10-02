@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "e4b423190a8767c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "23396ba0ca0e7296",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Light of the other days.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c8072face7e3866",
+    "type": "split",
+    "children": [
+      {
+        "id": "5db234f423231ea4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe59c057f60fbada",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "33c61124558bdb4e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a0c26f0f164ef7f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "79a3301c74ce5eae",
+    "type": "split",
+    "children": [
+      {
+        "id": "3280f8f2aa96d1f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4e6b92a0b3cfebb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Light of the other days.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f4381aef9305ea7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Light of the other days.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "143f3cce93612138",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4ab428d1f279c732",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Light of the other days.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "23396ba0ca0e7296",
+  "lastOpenFiles": [
+    "light of the other days - Analysis.md",
+    "Light of the other days.md",
+    "WARM.md",
+    "When it changed.md",
+    "Rautavaara's Case.md",
+    "True love.md",
+    "Gen.md",
+    "I MADE YOU - Notes - PDF.pdf",
+    "I MADE YOU - Notes.md",
+    "Gesture of Farewell - Notes.md"
+  ]
+}
