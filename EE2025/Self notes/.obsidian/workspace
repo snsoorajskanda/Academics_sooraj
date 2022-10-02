@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "d0cf3c42a9d3844a",
+    "type": "split",
+    "children": [
+      {
+        "id": "14508212b2464a21",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Websites for waveguide.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7fd25b7f9bddb4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f536880705c3dd3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "918645ccddc81606",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cdfb03c9b8b146a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ff0900cc08a33f82",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e67c06352ad53072",
+    "type": "split",
+    "children": [
+      {
+        "id": "6debf0785cca034d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30b8464392c91315",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Websites for waveguide.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a1c1acd7c602d2c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Websites for waveguide.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6237a935be2e4098",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7e43b26457881357",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Websites for waveguide.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "14508212b2464a21",
+  "lastOpenFiles": [
+    "Chapter 2.md",
+    "Chapter 1.md"
+  ]
+}
