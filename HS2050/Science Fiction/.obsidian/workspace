@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Light of the other days.md",
+            "file": "Schrodinger's Cat.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "79a3301c74ce5eae",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Light of the other days.md",
+                "file": "Schrodinger's Cat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Light of the other days.md",
+                "file": "Schrodinger's Cat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Light of the other days.md"
+                "file": "Schrodinger's Cat.md"
               }
             }
           }
@@ -130,8 +131,8 @@
   },
   "active": "23396ba0ca0e7296",
   "lastOpenFiles": [
-    "light of the other days - Analysis.md",
     "Light of the other days.md",
+    "light of the other days - Analysis.md",
     "WARM.md",
     "When it changed.md",
     "Rautavaara's Case.md",

@@ -1,0 +1,24 @@
+- Urusula K Leguin
+- Narrative discontinuity  - The first problem in the story
+- Incoherence
+- To prove SF can think of different kinds of narratives. Need not be always straight.
+- There existed a stigma that SF is kid's stuff(comics). Thus in order to prove that they are in par with other narrators in narrative skill, SF authors do this
+- The narrative style(technique) is important attribute to this story
+- Coming apart - The body parts are literally coming apart
+- Pun - word having two meanings. 
+- Humor
+- I shall proceed. - pun
+	- Going somewhere physically
+	- Proceeding with the narrative
+- Lying here - pun
+	- Physical state of existance
+	- Telling a lie
+- We can't discern the gender of the narrator
+- Existential grief : The fact that we exist brings us grief
+- Cats look out for number one : It's like cats come to the best people. - Attempted humor
+- Life is very unpredictable - existential grief
+- World is hot - we are living in an irrational world : Author's liscence to write indirectly, the ability to couch little things into metaphors, similies, puns etc
+- Worms shot like subway trains : simile : a different one. We are generally accustomed to comparing things with living creatures : trains shot like worms. This is reverse simile(The characteristic of this story)
+- The well tempered clavier - the collection of solo keyboard music
+- The cat gets hungry? - Humor
+- 
